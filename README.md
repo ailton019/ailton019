@@ -1,6 +1,5 @@
 <h1 align="center">Olá! Eu sou Ailton 🚀</h1>
 
-![Snake animation](https://github.com/ailton019/ailton019/blob/output/snake.svg)
 
 <div align="center">
   <!-- Painel 1: Estatísticas do GitHub -->
