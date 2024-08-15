@@ -1,5 +1,49 @@
 <h1 align="center">Olá! Eu sou Ailton 🚀</h1>
 
+
+<div align="center">
+  <!-- Painel 1: Estatísticas do GitHub -->
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=ailton019&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=ailton019&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=ailton019&show_icons=true" alt="GitHub Stats" />
+  </picture>
+
+  <!-- Painel 2: Linguagens Mais Usadas -->
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ailton019&layout=compact&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ailton019&layout=compact&theme=light"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailton019&layout=compact" alt="Top Languages" />
+  </picture>
+
+  <!-- Painel 3: Repositórios Mais Populares -->
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=ailton019&repo=nome-do-repositorio&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=ailton019&repo=nome-do-repositorio&theme=light"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ailton019&repo=nome-do-repositorio" alt="Popular Repository" />
+  </picture>
+</div>
+
+
+
 <p align="center">
   Desenvolvedor Fullstack em busca de transformar ideias em realidade através da tecnologia. Explorando o mundo do <strong>HTML, CSS, JavaScript</strong> e além!
 </p>
@@ -70,3 +114,6 @@
 <p align="center">
   <em>"O único limite para a nossa realização de amanhã são as nossas dúvidas de hoje."</em> – Franklin D. Roosevelt
 </p>
+
+
+![Snake animation](https://github.com/ailton019/ailton019/blob/output/snake.svg)
