@@ -70,7 +70,7 @@
 - 📚 Aprendendo **React.js** para criar interfaces de usuário dinâmicas.
 - 📚 Aprendendo **HTML** 
 - 📚 Aprendendo **CSS**
-- 📚 Aprendendo **Java Scripy - JS**
+- 📚 Aprendendo **Java Script - JS**
 - 📚 Aprendendo **Banco de Dados SQL-Server**
 - - 📚 Aprendendo **PHP**
 - 🔍 Explorando **Node.js** para back-end robusto.
