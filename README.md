@@ -1,5 +1,9 @@
-<h1 align="center">Olá! Eu sou Ailton 🚀</h1>
-
+<h1 align="center">
+  Olá! Eu sou Ailton Rocha 🚀
+  <a href="https://github.com/ailton019" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</h1>
 
 <div align="center">
   <!-- Painel 1: Estatísticas do GitHub -->
@@ -42,18 +46,15 @@
 
 ### 🔭 Projetos Atuais
 
-##
-
 <div>
-<a href="https://www.youtube.com/@GameMastersOficiall" target="_blank" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-</div>   
+  <a href="https://ailton019.github.io/portifolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</div>
 
 ##
 
-- 🎮 **[GameMasters](https://github.com/ailton019/gamemasters)**: Onde os mestres dos jogos se encontram.
-
-
-### 🌱 Aprendizado em Progresso
+- 🎮 **[GameMasters](https://github.com/ailton019/gamemasters)**: Um projeto de hobby onde, às vezes, gravo minhas jogatinas e posto no YouTube por diversão.
 
 ##
 
@@ -61,18 +62,26 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Database" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Gmail" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="DotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
 </div>
 
 ##
 
-- 📚 Aprendendo **React.js** para criar interfaces de usuário dinâmicas.
+🛠️ **Atualmente atuando como Analista Técnico de ERP N2**, com foco em suporte, melhorias e integrações técnicas em sistemas empresariais.
+
+
+
 - 📚 Aprendendo **HTML** 
+- 📚 Aprendendo **C#**
+- 📚 Aprendendo **.Net**
+- 📚 Aprendendo **Git e GitHub**   
 - 📚 Aprendendo **CSS**
 - 📚 Aprendendo **Java Script - JS**
 - 📚 Aprendendo **Banco de Dados SQL-Server**
-- - 📚 Aprendendo **PHP**
 - 🔍 Explorando **Node.js** para back-end robusto.
 
 ---
